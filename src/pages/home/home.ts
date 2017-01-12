@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component } from '@angular/core';
 import {Http } from '@angular/http';
 import { NavController } from 'ionic-angular';
 import { InAppBrowser } from 'ionic-native';
